@@ -1,9 +1,4 @@
-//
-//  SecondViewController.swift
-//  NorthEastSouthWest
-//
-//  Created by admin on 15/12/2021.
-//
+
 
 import UIKit
 
